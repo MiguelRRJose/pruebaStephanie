@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1da0999-9f65-4d92-80b8-4fcc3f90fbeb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee/Labo11" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee/Labo11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee/Labo11/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee/Labo11/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee/Labo11/src/main/java/com/example/labo11/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee/Labo11/src/main/java/org/poo/laboratorio/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee/Labo11/src/main/java/org/poo/laboratorio/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Collections/laboratorio-11-uso-de-collections-grupo-04-Stxphaniee/Labo11" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2hYfhuY1h2lv9PiWbf8TcWClwNj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Miguel/Desktop/pruebaStephanie"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1da0999-9f65-4d92-80b8-4fcc3f90fbeb" name="Changes" comment="" />
+      <created>1717776053414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717776053414</updated>
+    </task>
+    <servers />
+  </component>
+</project>
